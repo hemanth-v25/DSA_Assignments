@@ -1,0 +1,33 @@
+Please enter the sequence S:1,2,3,4,5,5,$
+
+Please enter the pattern to be replaced:5,$
+
+Please enter the replacement text:-3,4,-5,23,-123,-1,$ 
+
+Sequence ater replacement:1,2,3,4,-3,4,-5,23,-123,-1,-3,4,-5,23,-123,-1,$
+
+Do you want to continue? (y/n):y
+
+Please enter the pattern to be replaced:-5,23,$
+
+Please enter the replacement text:1,23,235,5,35,3,$
+
+Sequence ater replacement:1,2,3,4,-3,4,1,23,235,5,35,3,-123,-1,-3,4,1,23,235,5,35,3,-123,-1,$
+
+Do you want to continue? (y/n):y
+
+Please enter the pattern to be replaced:4,$
+
+Please enter the replacement text:1,2,1,2,1,$
+
+Sequence ater replacement:1,2,3,1,2,1,2,1,-3,1,2,1,2,1,1,23,235,5,35,3,-123,-1,-3,1,2,1,2,1,1,23,235,5,35,3,-123,-1,$
+
+Do you want to continue? (y/n):y
+
+Please enter the pattern to be replaced:1,2,1,$
+
+Please enter the replacement text:66666,99999,44444,$
+
+Sequence ater replacement:1,2,3,66666,99999,44444,2,1,-3,66666,99999,44444,2,1,1,23,235,5,35,3,-123,-1,-3,66666,99999,44444,2,1,1,23,235,5,35,3,-123,-1,$
+
+Do you want to continue? (y/n):n
